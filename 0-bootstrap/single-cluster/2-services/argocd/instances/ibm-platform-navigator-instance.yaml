@@ -30,7 +30,7 @@ spec:
                 license: L-RJON-CJR2RX
               mqDashboard: true
               version: "2022.4.1"
-              replicas: 1
+              replicas: 2
               storage:
                 class: ibmc-file-gold-gid
 
